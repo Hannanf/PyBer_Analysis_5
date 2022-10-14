@@ -1,6 +1,4 @@
-# PyBer_Analysis_5 
-______________________________________________________________________
-Module 5 Challenge — Using Python and the Pandas, and Matplotlib Libraries to create a summary of Ride-Sharing Data and Graph Showing Total Weekly Fare for Each City Type ]
+Module 5 Challenge — Using Python and the Pandas, and Matplotlib Libraries to create a summary of Ride-Sharing Data and Graph Showing Total Weekly Fare for Each City Type 
 ______________________________________________________________________
 OVERVIEW
 ______________________________________________________________________
