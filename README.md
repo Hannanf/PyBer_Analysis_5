@@ -19,6 +19,8 @@ ______________________________________________________________________
 Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 As we can seen in figure 1, total fare collected is highest in urban areas, followed by suburban areas, and rural areas. 
 
+![image](https://user-images.githubusercontent.com/103878061/195786668-6eb70852-e367-4086-bffb-80bd144df8fd.png)
+
 Figure 1 — Average total fare by city type collected over the course of a year 
 
 ______________________________________________________________________
