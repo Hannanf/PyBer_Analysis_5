@@ -40,15 +40,11 @@ Figure 3 — Pie chart showing the distribution of drivers as a percentage amoun
 
 Figure 4 — Pie chart showing the percentage of total rides by city type (urban, rural, and suburban)
 
-
-
 ______________________________________________________________________
 <h4>SUMMARY
 </h4>
 
 ______________________________________________________________________
-
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
 
 1) As seen in figure 5, the drivers in the rural areas are taking on the most rides. I would advise the CEO to add more drivers to the rural areas 
